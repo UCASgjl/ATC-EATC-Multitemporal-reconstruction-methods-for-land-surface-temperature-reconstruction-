@@ -11,5 +11,5 @@ References
 
 To cite code in publications
 ========
-+  Please cite the following reference:
-Guo, J., Quan, J., Zhan, W., Wen, Z., 2025. Comparison of gap-filling methods for generating Landsat-like land surface temperatures under all-weather conditions. ISPRS J. Photogramm. Remote Sens.
+Please cite the following reference:
++  Guo, J., Quan, J., Zhan, W., Wen, Z., 2025. Comparison of gap-filling methods for generating Landsat-like land surface temperatures under all-weather conditions. ISPRS J. Photogramm. Remote Sens.
